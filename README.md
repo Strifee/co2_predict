@@ -5,7 +5,7 @@ Carbon dioxide emissions are one of the biggest causes of global warming, and th
  
 # Data
 
-[Carbon emissions from electicity production]https://www.kaggle.com/txtrouble/carbon-emissions is a Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
+[Carbon emissions from electicity production](https://www.kaggle.com/txtrouble/carbon-emissions) is a Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
 
 ### Carbon dioxide emissions from electricity generation :
 ![image](img/output.png)
